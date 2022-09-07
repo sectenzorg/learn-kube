@@ -15,4 +15,4 @@ ENV PKG=github.com/kubernetes-up-and-running/kuard
 ENV ARCH=amd64
 ENV VERSION=test
 
-CMD [ "/go/bin/simple-go" ]
+CMD [ "/go/bin/kuard" ]
